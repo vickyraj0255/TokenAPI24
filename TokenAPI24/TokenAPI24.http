@@ -1,0 +1,6 @@
+@TokenAPI24_HostAddress = http://localhost:5010
+
+GET {{TokenAPI24_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
